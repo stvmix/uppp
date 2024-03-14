@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA :TV" tvg-logo="" group-title="DEPORTES",BEIN SPORTS XTRA :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Ñ " tvg-logo="" group-title="DEPORTES",BEIN SPORTS Ñ 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS SPORTS NET US " tvg-logo="" group-title="DEPORTES",CBS SPORTS NET US 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS 2 HD :TV" tvg-logo="" group-title="DEPORTES",CLARO SPORTS 2 HD :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 LA FHD *" tvg-logo="" group-title="DEPORTES",ESPN 1 LA FHD *
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 US HD " tvg-logo="" group-title="DEPORTES",ESPN 1 US HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB NET US HD " tvg-logo="" group-title="DEPORTES",MLB NET US HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY PREMIER LEAGUE FHD " tvg-logo="" group-title="DEPORTES",SKY PREMIER LEAGUE FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TENIS US " tvg-logo="" group-title="DEPORTES",TENIS US 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS HD :TV" tvg-logo="" group-title="DEPORTES",TIGO SPORTS HD :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA NET HD" tvg-logo="" group-title="DEPORTES",USA NET HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE NET FHD " tvg-logo="" group-title="DEPORTES",WWE NET FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS FHD " tvg-logo="" group-title="MEXICO",LAS ESTRELLAS FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 HD" tvg-logo="" group-title="MEXICO",CANAL 5 HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7 :TV" tvg-logo="" group-title="MEXICO",AZTECA 7 :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7 HD " tvg-logo="" group-title="MEXICO",AZTECA 7 HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NUEVE " tvg-logo="" group-title="MEXICO",NUEVE 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMAGENTV FHD" tvg-logo="" group-title="MEXICO",IMAGENTV FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD " tvg-logo="" group-title="CINEMA",CINEMAX HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="CINEMA",TNT HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS 1 MX FHD" tvg-logo="" group-title="DEPORTES",CLARO SPORTS 1 MX FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES HD " tvg-logo="" group-title="DEPORTES",ESPN DEPORTES HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 MX HD" tvg-logo="" group-title="DEPORTES",ESPN 1 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 MX HD" tvg-logo="" group-title="DEPORTES",ESPN 3 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA MX FHD" tvg-logo="" group-title="DEPORTES",ESPN EXTRA MX FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MX FHD" tvg-logo="" group-title="DEPORTES",TUDN MX FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES HD" tvg-logo="" group-title="DEPORTES",TVC DEPORTES HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS US" tvg-logo="" group-title="DEPORTES",BEIN SPORTS US
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D SPORTS 2 HD " tvg-logo="" group-title="DEPORTES",D SPORTS 2 HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL CO HD" tvg-logo="" group-title="ENTRETENIMIENTO",CARACOL CO HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="" group-title="DEPORTES",GOLF HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL HD" tvg-logo="" group-title="DEPORTES",NFL HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA FHD" tvg-logo="" group-title="DEPORTES",NBA FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB HD " tvg-logo="" group-title="DEPORTES",MLB HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN CO FHD" tvg-logo="" group-title="ENTRETENIMIENTO",RCN CO FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM LA HD" tvg-logo="" group-title="DEPORTES",ESPN PREMIUM LA HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 LA HD " tvg-logo="" group-title="DEPORTES",ESPN 4 LA HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY LALIGA HD" tvg-logo="" group-title="ENTRETENIMIENTO",SKY LALIGA HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS LA HD" tvg-logo="" group-title="DEPORTES",TNT SPORTS LA HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS AR HD" tvg-logo="" group-title="DEPORTES",TYC SPORTS AR HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION SD" tvg-logo="" group-title="ENTRETENIMIENTO",GALAVISION SD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS HD " tvg-logo="" group-title="ENTRETENIMIENTO",UNIMAS HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSO FHD :IF *" tvg-logo="" group-title="ENTRETENIMIENTO",UNIVERSO FHD :IF *
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NET " tvg-logo="" group-title="DEPORTES",FIGHT NET 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO HD" tvg-logo="" group-title="ENTRETENIMIENTO",TELEMUNDO HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HD" tvg-logo="" group-title="ENTRETENIMIENTO",UNIVISION HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AYM SPORTS HD " tvg-logo="" group-title="DEPORTES",AYM SPORTS HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO FHD " tvg-logo="" group-title="MEXICO",AZTECA UNO FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES HD " tvg-logo="" group-title="DEPORTES",FOX DEPORTES HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 US :IF " tvg-logo="" group-title="DEPORTES",DAZN 3 US :IF 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY ARENA " tvg-logo="" group-title="DEPORTES",SKY ARENA 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE FHD " tvg-logo="" group-title="CINEMA",SPACE FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 MX HD" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 MX FHD " tvg-logo="" group-title="DEPORTES",ESPN 2 MX FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV " tvg-logo="" group-title="DEPORTES",GOLTV 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS CO " tvg-logo="" group-title="DEPORTES",WIN SPORTS CO 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN US HD " tvg-logo="" group-title="DEPORTES",TUDN US HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 MX HD " tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 MX HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 MX FHD " tvg-logo="" group-title="DEPORTES",FOX SPORTS 2 MX FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM HD " tvg-logo="" group-title="DEPORTES",FOX SPORTS PREMIUM HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS PLUS CO FHD " tvg-logo="" group-title="DEPORTES",WIN SPORTS PLUS CO FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D SPORTS HD " tvg-logo="" group-title="DEPORTES",D SPORTS HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS HD" tvg-logo="" group-title="DEPORTES",AFIZZIONADOS HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLPERU FHD :TV " tvg-logo="" group-title="DEPORTES",GOLPERU FHD :TV 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/96.m3u8
